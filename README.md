@@ -3,6 +3,8 @@ Hair and skin products
 
 
 my name is Memory Mhou, student number 221014144, the following is our project. 
+hello  i am mario, student number ........
+
 
 Project Description
 Our Story
@@ -33,3 +35,21 @@ The desired outcome is the development of an application that:
 • create customer relationship management database to serve as a sales tool.
 You are required to design an application that Ayesha Beauty Creation can use. Kindly use the rubric
 below to design the application.
+
+
+
+details , lets use design thinking process
+
+
+
+first stage, empathise 
+
+
+
+
+
+second stage, ideate
+
+
+
+
