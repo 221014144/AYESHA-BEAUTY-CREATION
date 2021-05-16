@@ -1,7 +1,7 @@
 # AYESHA-BEAUTY-CREATION
 Hair and skin products
 
-
+My name is Memory Mhou, student number 221014144, the following is our project, 
 my name Mario Tetrianu, student number 220023174, the following is our project. 
 
 Project Description
