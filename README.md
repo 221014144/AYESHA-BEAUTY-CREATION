@@ -42,9 +42,10 @@ it becomes challengs to some people  because often time  its very difficult for 
 
 
 221014144 
-after doing interviews,with different people working in salons, both male and female , and people work in human resources and sales and markerting, and management of different skin and hair products companies. i found out that customers want customer intimacy and companies want operational excellence. customers want theri goods deliverd in time and they want good quality and affordable products. the products should be packaged in attractive containers.
+after doing interviews,with different people working in salons, both male and female , and people working in human resources and sales and markerting, and management of different skin and hair products companies. i found out that customers want customer intimacy and companies want operational excellence. customers want their goods deliverd in time and they want good quality and affordable products. the products should be packaged in attractive containers.
 
 
+my suggestion is to now create a pseudo code and flowchart of the application. 
 
 
 
