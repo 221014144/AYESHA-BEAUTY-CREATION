@@ -50,6 +50,10 @@ my suggestion is to now create a pseudo code and flowchart of the application.
 
 
 
-
-
+221014144
+we three departments(finance,human resources and customer)
+we need to create a programme in:
+1. finance: that create value in finance. 
+2. human resources that create efficiency
+3. customer that manages the customer database.
 
