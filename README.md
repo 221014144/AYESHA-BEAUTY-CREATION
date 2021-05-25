@@ -57,3 +57,6 @@ we need to create a programme in:
 2. human resources that create efficiency
 3. customer that manages the customer database.
 
+220023174
+we should use scratch for our modules. you login than find human resources,  finance management, customer relation  management.
+under human resources you find staff list , staff salary , finance management you find company loss and profit file, CRM You find customer complain and  inquires .
