@@ -60,3 +60,38 @@ we need to create a programme in:
 221107630
 We will be making use of the application make the daily operations of the salon easier and efficient. 
 The application will consist of different screens and optiooptions. 
+
+221014144 the following is my pseudocode 
+
+START 
+prompt user for username and password 
+get username and password 
+check username and password with database
+if both match
+print welcome "username"
+else 
+print 'REGISTER"
+
+open databases
+if database ==human resources 
+display employee details 
+
+else 
+
+if database==customer 
+display customer details 
+
+else 
+
+if database==finance 
+display transaction history
+
+else 
+ logout 
+ 
+ end if 
+ 
+ end 
+ 
+ 
+ 
