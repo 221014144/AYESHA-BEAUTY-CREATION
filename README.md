@@ -93,31 +93,139 @@ else
  end if 
  
  end 
- 
- 
- 
-functions 
+
+                  
+                  
+                  
+Modules and Functions 
+1.Stock (search, and update) (Adding/deleting products)
+2.Order (search, and place order) 
+3.Sales (search, payment and print receipt)
+4.humanresources (search,calculate salary)
+5.finance(calculate ROI)
 
 
-returnOnInvestment(totalExpenses,Totalincome){
+Stock
+1.Searching stock
+ Start
+Click SEARCH button
+ Enter serial/barcode number 
+Check if (serial/barcode number is correct)
+ If correct then Click OK button to display results 
+Else
+ Display empty sheet
+ EndIf 
+Exit
+
+
+2.Adding stock
+Start 
+Enter stock details
+ Check if (all fields are completed) 
+Check if details are correct If details are verified 
+Click SAVE button to save record 
+Else 
+Display ‘’error’’ message
+ EndIf
+ Exit
+
+3. Updating stock
+ Start
+ Open Sales form
+ Click on barcode/serial number text box 
+Enter barcode/serial number 
+Message box displays to ask for permission to run an update query 
+Select OK 
+Enter Quantity of stock sold
+ Stock quantity is automatically reduces
+ Exit
+ 
+4 Delet3 stock
+ Start
+ Search for record 
+Click DELETE button to delete displayed results
+ Exit
+
+Orders
+1.Search Start
+ Click SEARCH button
+ Enter order number
+ Check if order number is correct
+ If correct thenClick OK button to display results 
+Else
+ Display empty sheet 
+EndIf 
+Exit
+
+2. Placing orders
+ Start 
+Enter all details 
+Check if ( all fields are completed )
+Check if (all details are correct)
+ If all details are verified 
+Save record
+ Else 
+Display ‘’error’’ message 
+END ELSE
+END IF
+Exit
+
+Sales
+1. Searching 
+Start
+ Click SEARCH button 
+Enter customer ID
+ Check if (customer ID is correct)
+ If correct then Click OK button to display results 
+Else 
+Display empty datasheet
+ EndIf 
+Exit
+
+2. Payments
+ Start
+ Enter all details
+ Check if (all fields are completed )
+Check if all fields are correct 
+If all details are verified
+ Save record
+ Else
+ Display ‘’error’’ message
+ Exit
+
+3. print receipt
+ Start 
+Click PRINT RECEIPT button 
+Enter receipt number 
+then
+Customer payment details will display
+Print receipt 
+Exit
+Display ‘’error’’ message
+ Exit
+ 
+ 
+
+finance
+1.returnOnInvestment(totalExpenses,Totalincome){
                   roi=(totalIncome-totalExpenses)/totalExpenses)*100
                   display "The Return On investment is, roi,%"
  }
  
  
- generalSalary(t,a){
+ human resources
+ 2. generalSalary(t,a){
                salary=(hoursWorked*50)
                display salary
   }             
    
    
-  managerSalary(t,a)
+  3. managerSalary(t,a)
                 salary=(hoursworked*70)
                 display salary
  }
  
  
  
-                  
-                  
-                  
+
+
