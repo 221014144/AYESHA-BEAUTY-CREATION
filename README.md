@@ -3,6 +3,8 @@ Hair and skin products
 
 My name is Memory Mhou, student number 221014144, the following is our project, 
 my name Mario Tetrianu, student number 220023174, the following is our project. 
+My name is Harold Kasera,  Student number 221134425,  the following is our project
+
 
 Project Description
 Our Story
@@ -19,6 +21,9 @@ your beauty routine. We are listeners and problem solvers working to empower all
 lives, it is what sets us apart.
 Our product range is distributed by Dischem Pharmacies Namibia and PnP Namibia Store
 
+221134425 
+ The readme file was supposed to show my updates previous edited but for some reason it does not, and my colleagues informed me yesterday. 
+ As for our salon, a service portfolio is quite critical not only to customers but to investors as well. You need a professional salon portfolio. This portfolio includes pictures that show off your salon skills and talents to potential employers. The pictures can also attract new clients for your independent business.  And, this will assist with profit for the company and build on a way forward 
 
 
 the following is our activity
